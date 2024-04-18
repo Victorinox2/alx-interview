@@ -1,4 +1,4 @@
-I revited the following concepts needed to tackle this task:
+I revisited the following concepts needed to tackle this task:
 
 Concepts Needed:
 HTTP Requests in JavaScript:
